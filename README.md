@@ -1,5 +1,5 @@
 # How Much Insulin
-Tells you how much insulin to take based on current blood glucose reading and grams of carbs you're about to ingest, based on a custom configuration for each time of the day
+Tells you how much insulin to take based on current blood glucose reading and grams of carbs you're about to ingest, with custom configuration for specific times of the day.
 
 ![Screenshot of the home screen](https://github.com/almeidaraul/hmi/blob/master/hmi_screenshot.jpg?raw=true)
 
